@@ -1,0 +1,25 @@
+---
+title: "Miles Benton"
+image: "images/mbenton.jpg"
+color1: "#00416A"
+color2: "#536976"
+angle: 45
+links:
+  - GitHub: "https://github.com/sirselim"
+  - Twitter: "https://twitter.com/miles_benton"
+  - Scholar: "https://scholar.google.co.nz/citations?user=iEhBavEAAAAJ&hl=en"
+  - LinkedIn: "https://www.linkedin.com/in/miles-benton-937a1961"
+  - CV: "https://sirselim.github.io/Miles_CV/"
+  - Publications: "publications.html"
+  - Presentations: "presentations.html"
+  - Email: "mailto:miles.benton84@gmail.com"
+output:
+  postcards::onofre
+---
+
+At the bottom of the world in New Zealand, I am a computational geneticist 
+interested in all facets of biology and technology. As of March 2022 I am working 
+for [Oxford Nanopore Technologies](www.nanoporetech.com) 
+as a Senior Bioinformatician. Technology and science geek that also dabbles 
+at photography and electric guitar, with a side of coffee, beer and single 
+malts thrown in the mix.
