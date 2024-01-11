@@ -1,6 +1,6 @@
 ---
-title: "Miles Benton"
-image: "images/mbenton.jpg"
+title: "Raju Gudhe"
+image: "images/profile.jpg"
 color1: "#00416A"
 color2: "#536976"
 angle: 45
@@ -17,9 +17,7 @@ output:
   postcards::onofre
 ---
 
-At the bottom of the world in New Zealand, I am a computational geneticist 
-interested in all facets of biology and technology. As of March 2022 I am working 
-for [Oxford Nanopore Technologies](www.nanoporetech.com) 
-as a Senior Bioinformatician. Technology and science geek that also dabbles 
-at photography and electric guitar, with a side of coffee, beer and single 
-malts thrown in the mix.
+At the north of the world in Finland, I am a researcher 
+interested in all facets of computational biology. As of 2024 I am working 
+for University of Eastern Finland (ww.uef.fi)
+as a early stage researcher. 
